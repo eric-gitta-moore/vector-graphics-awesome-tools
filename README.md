@@ -2,3 +2,4 @@
 矢量图工具
 
 - Vector Magic 位图转矢量图
+- vectorizer.ai
